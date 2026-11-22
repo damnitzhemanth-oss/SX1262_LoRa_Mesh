@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "Meow_sym") (type "KiCad") (uri "${KIPRJMOD}/Footprints_Symbols/01_Symbols.kicad_sym") (options "") (descr ""))
+)
